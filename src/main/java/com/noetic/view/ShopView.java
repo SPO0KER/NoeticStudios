@@ -53,7 +53,7 @@ public class ShopView {
         shopSection.getStyleClass().add("shop-section");
         shopSection.setPadding(new Insets(30, 40, 40, 40));
 
-      
+       
         HBox filterBar = new HBox(8);
         filterBar.getStyleClass().add("filter-bar");
         filterBar.setPadding(new Insets(16, 20, 16, 20));
